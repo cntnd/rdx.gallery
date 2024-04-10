@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "del": "^5.1.0",
+    "fancy-log": "^1.3.3",
+    "gulp": "^5.0.0",
+    "gulp-file": "^0.4.0",
+    "read-yaml-file": "^2.1.0"
+  },
+  "author": "Thomas D Ascoli, thomas@dasco.li",
+  "dependencies": {
+    "gulp-cli": "^3.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "apollo29/rdx.gallery",
+  "description": "rdx.gallery",
+  "require": {
+    "php": "^7.4 || ^8.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas D'Ascoli",
+      "email": "thomas@dasco.li"
+    }
+  ]
+}
